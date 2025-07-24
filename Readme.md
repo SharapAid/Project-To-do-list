@@ -1,0 +1,1 @@
+A small project - To-do list. Completely terminal application, but simple. Implements the To-do list with saving and loading. Does not have a sub-sheet implementation (but will be added in the future).
